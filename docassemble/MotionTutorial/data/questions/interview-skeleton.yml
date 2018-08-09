@@ -7,11 +7,10 @@ metadata:
   description: |
     This interview helps you file a motion to dismiss.
   authors:
-    - name: Quinten Steenhuis
-      organization: Greater Boston Legal Services
-    - name: Rina Padua
-      organization: Greater Boston Legal Services
-  revision_date: 2018-03-23
+    - name: Caroline Robinson
+      organization: Massachusetts Law Reform Institute
+   
+  revision_date: 2018-08-9
 ---
 mandatory: True
 question: |
